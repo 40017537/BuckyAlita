@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BuckyAlita
-- 👀 I’m interested in changing this world.
-- 🌱 I’m currently learning MERN
+- 👋 Hi, I’m @BuckyAlita.
+- 👀 I’m interested in developing.
+- 🌱 Currently learning MERN stack.
 - 💞️ I’m looking to collaborate on ________
 - 📫 How to reach me ( Email - vt2174781@gmail.com )
 
